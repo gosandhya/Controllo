@@ -15,6 +15,4 @@ Television: On/Off, Volume up/down, Channel up/down
 
 
 ## Arduino Circuit Diagram
-
-![Arduino Circuit] (https://github.com/SandhyaaGopchandani/Controllo/blob/master/Arduino/arduinoCircuitDiagram.png)
-
+![arduino](https://github.com/SandhyaaGopchandani/Controllo/blob/master/Arduino/arduinoCircuitDiagram.png)
