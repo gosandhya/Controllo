@@ -11,5 +11,10 @@ Light: On/off,
 Fan: On/Off,
 Television: On/Off, Volume up/down, Channel up/down
 
+## Android Application
 
+
+## Arduino Circuit Diagram
+
+![Arduino Circuit] (https://github.com/SandhyaaGopchandani/Controllo/blob/master/Arduino/arduinoCircuitDiagram.png)
 
